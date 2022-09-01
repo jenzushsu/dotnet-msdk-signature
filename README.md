@@ -30,7 +30,7 @@ JWT is generated based on the following core parts as stated in the [documentati
             int role = 1; 
     ```
 
-2. In termninal, run the following command to build the project:
+2. In terminal, run the following command to build the project:
 
     ```Console
     dotnet build
